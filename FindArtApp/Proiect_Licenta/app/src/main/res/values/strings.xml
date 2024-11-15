@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArtShopV1</string>
+    <string name="logout">Logout</string>
+    <string name="user">user</string>
+    <string name="price">Price</string>
+    <string name="cart_items_text">cart_items_text</string>
+    <string name="total_price_text">total_price_text</string>
+    <string name="pay">PAY</string>
+    <string name="cancel">CANCEL</string>
+    <string name="cart">CART</string>
+    <string name="welcome">Welcome,</string>
+    <string name="close">CLOSE</string>
+    <string name="total_price">Total Price:</string>
+</resources>

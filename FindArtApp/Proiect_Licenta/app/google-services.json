@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634583264297",
+    "project_id": "artshopv1",
+    "storage_bucket": "artshopv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634583264297:android:0bebb9bb69fef07b26c038",
+        "android_client_info": {
+          "package_name": "com.example.artshopv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYgw5e3XrXiHe8t9Gk6g5TskCZ_VdxWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
